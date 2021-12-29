@@ -11,13 +11,13 @@
   
     GitHubUser:
       Type: String
-      Default: tqtezos
-      Description: Your team or username on GitHub.
+      Default: twhid
+      Description: Using twhid only for testing
   
     NodeGitHubRepo:
       Type: String
-      Default: node-docker
-      Description: The repo name of the node service.
+      Default: tezos-node-docker
+      Description: The repo name of the tezos node service.
   
     NodeGitHubBranch:
       Type: String

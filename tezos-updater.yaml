@@ -11,8 +11,8 @@ Parameters:
 
   GitHubUser:
     Type: String
-    Default: tqtezos
-    Description: Your team or username on GitHub.
+    Default: twhid
+    Description: Use twhid only for testing.
 
   GitHubRepo:
     Type: String
