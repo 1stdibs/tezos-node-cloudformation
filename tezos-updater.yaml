@@ -79,11 +79,11 @@ Parameters:
 
   Network:
     Type: String
-    Default: delphinet
+    Default: hangzhounet
     AllowedValues:
         - mainnet
-        - delphinet
-        - edo2net
+        - hangzhounet
+        # - edo2net
 
   Connections:
     Type: Number

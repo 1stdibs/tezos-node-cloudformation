@@ -83,11 +83,11 @@
   
     Network:
       Type: String
-      Default: delphinet
+      Default: hangzhounet
       AllowedValues:
-        - mainnet
-        - delphinet
-        - edo2net
+          - mainnet
+          - hangzhounet
+          # - edo2net
 
     Connections:
       Type: Number
